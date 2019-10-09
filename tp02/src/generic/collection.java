@@ -20,7 +20,7 @@ public class collection {
 	    Set<Integer> setInt = map.keySet();
 	    Iterator<Integer> it = setInt.iterator();
 	    
-	    System.out.println("Parcours d'une Map avec ketSet: ");
+	    System.out.println("Parcours d'une Map avec keySet: ");
 	    while(it.hasNext()){
 	    	int key=it.next();
 	        System.out.println("Valeur de la clé "+key+" = "+map.get(key));
