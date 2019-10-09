@@ -23,7 +23,7 @@ public class collection {
 	    System.out.println("Parcours d'une Map avec keySet: ");
 	    while(it.hasNext()){ 
 	    	int key=it.next();
-	        System.out.println("Valeur de la clé "+key+" = "+map.get(key));
+	        System.out.println(" Valeur de la clé "+key+" = "+map.get(key));
 	    }
 		
 	}
