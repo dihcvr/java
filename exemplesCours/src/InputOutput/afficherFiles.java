@@ -1,4 +1,4 @@
-package inputOutput;
+package InputOutput;
 import java.io.File;  
 
 public class afficherFiles {
